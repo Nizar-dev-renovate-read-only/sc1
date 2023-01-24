@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "q": "1.1.0",
-    "async": "2.0.0"
+    "async": "2.6.4"
    }
  }
